@@ -1,0 +1,11 @@
+HOW TO DOWNLOAD YOUTUBE VIDEO THROUGH THE COMMAND PROMT
+1.First you have to install python any version
+2.Second you have to write "pip install youtube-dl" command on cmd
+3.you have to copy the link of the video
+4.you have to go on the file where you want to download the youtube file.
+5.you have to write cmd on the search option 
+6.cmd will be open there
+7.you have to write "youtube-dl (paste copy link)" command on cmd
+
+It will take some time to be download and after it all the process will complete
+
